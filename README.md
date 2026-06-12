@@ -1,4 +1,4 @@
-# 🚀 Employee & Intern Portal — Step-by-Step User Manual
+#  Employee & Intern Portal — Step-by-Step User Manual
 
 <div align="center">
   
