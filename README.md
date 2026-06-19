@@ -27,14 +27,16 @@
 
 When you log in, you will see a navigation sidebar on the left side of your screen. These are the main sections you will use:
 
-| Section | Icon | Purpose |
-|---------|------|---------|
+| Sidebar Item | Icon | Purpose |
+| :--- | :---: | :--- |
 | **Dashboard** | 🏠 | Your home screen showing summary stats (assigned tasks, attendance rate) and recent tasks. |
-| **Task Board** | 📋 | The board where you manage your active projects, start tasks, and submit your work deliverables. |
-| **Daily Updates** | 📝 | The page where you submit your daily logs (by 10:00 PM) and weekly progress archives. |
-| **Attendance** | 📅 | The page where you check in every day (before 5:30 PM), view your attendance calendar, and apply for leaves. |
+| **My Tasks** | ✔️ | The board where you manage your active projects, start tasks, and submit your work deliverables. |
+| **Attendance** | 🕒 | The page where you check in every day (before 5:30 PM), view your attendance calendar, and apply for leaves. |
+| **Submissions** | 📤 | The portal where you upload custom deliverables and files for manager review. |
+| **Updates** | ✏️ | The page where you submit your daily logs (by 10:00 PM) and weekly progress archives. |
+| **Resources** | 📖 | The central library containing official notice documents, guidelines, templates, and corporate plans. |
+| **Performance** | ⭐ | The page where you see your manager's evaluation ratings, consistency metrics, and internship milestones. |
 | **Live Chat** | 💬 | The portal where you message your team leaders (CEO Sambit, HR Head Sahil, and Product Head Jyoti). |
-| **Performance** | 📈 | The page where you see your manager's evaluation ratings and your consistency metrics. |
 
 ---
 
@@ -44,7 +46,7 @@ When you log in, you will see a navigation sidebar on the left side of your scre
 
 ### Step-by-Step Instructions:
 
-1. Click **Attendance** 📅 in the left sidebar.
+1. Click **Attendance** 🕒 in the left sidebar.
 2. Look at the top center of the page. You will see a yellow banner stating **"Daily Attendance Pending"**.
 3. Depending on the time:
    - Click the green **Mark Present** button (if it is before 5:30 PM).
@@ -59,10 +61,10 @@ When you log in, you will see a navigation sidebar on the left side of your scre
 
 ```
 🟢 Green   = Present
-🟡 Yellow  = Late
+🟡 Yellow  = Late Check-in
 🔵 Blue    = Approved Leave
 🔴 Red     = Absent (if you forgot to check in)
-—  Dash    = Dates before your joining date (these do not count against you)
+—  Dash    = Dates before your official joining date (these do not count against you)
 ```
 
 ---
@@ -74,7 +76,7 @@ You receive your tasks from managers on the Task Board.
 ### Step-by-Step Instructions:
 
 #### Starting a Task:
-1. Click **Task Board** 📋 in the left sidebar.
+1. Click **My Tasks** ✔️ in the left sidebar.
 2. You will see columns representing the life of a task: **To Do**, **In Progress**, **Under Review**, and **Done**.
 3. Look under the **To Do** column and find the task card you want to start.
 4. Click the **Start Task** button on that card. It will automatically slide into the **In Progress** column.
@@ -98,11 +100,11 @@ You receive your tasks from managers on the Task Board.
 
 ## 📝 4. How to Submit Your Daily Logs (Every Night before 10:00 PM)
 
-> 📌 **Requirement:** You must fill out a log report every evening to document your day's progress.
+> 📌 **Requirement:** You must fill out a log report every evening to document your day's progress. Daily logs should be filled by **10:00 PM** every evening.
 
 ### Step-by-Step Instructions:
 
-1. Click **Daily Updates** 📝 in the left sidebar.
+1. Click **Updates** ✏️ in the left sidebar.
 2. Look at the top right of the page and click the **Submit Update** tab/button.
 3. Fill out the report form:
    - **Update Title**: Give a short title (e.g., "Day 12: Login Page Redesign").
@@ -148,7 +150,7 @@ Standard contributors (employees/interns) cannot message each other to maintain 
 
 ### Step-by-Step Instructions:
 
-1. Click **Attendance** 📅 in the left sidebar.
+1. Click **Attendance** 🕒 in the left sidebar.
 2. Click the blue **Request Leave** button in the top right corner.
 3. Fill out the request form:
    - **Start Date**: Select the first day of your leave.
