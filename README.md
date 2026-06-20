@@ -15,11 +15,12 @@
 ## 📖 Table of Contents
 
 - [🗂️ Navigating Your Sidebar](#-1-navigating-your-sidebar)
-- [📅 Daily Attendance](#-2-how-to-mark-your-daily-attendance)
+- [📅 Daily Attendance](#-2-how-to-mark-your-daily-attendance-every-day-before-530-pm)
 - [📋 Task Management](#-3-how-to-view-work-on-and-submit-your-tasks)
-- [📝 Daily Logs](#-4-how-to-submit-your-daily-logs)
-- [💬 Team Communication](#-5-how-to-chat-with-team-managers)
-- [🏖️ Leave Requests](#-6-how-to-request-time-off-leaves)
+- [📤 Work Submissions](#-4-how-to-log-custom-work-deliverables-submissions)
+- [📝 Daily Logs](#-5-how-to-submit-your-daily-logs-every-night-before-1000-pm)
+- [💬 Team Communication](#-6-how-to-chat-with-team-managers-and-groups)
+- [🏖️ Leave Requests](#-7-how-to-request-time-off-leaves)
 
 ---
 
@@ -98,7 +99,25 @@ You receive your tasks from managers on the Task Board.
 
 ---
 
-## 📝 4. How to Submit Your Daily Logs (Every Night before 10:00 PM)
+## 📤 4. How to Log Custom Work Deliverables (Submissions)
+
+If you are uploading custom files, assets, or document summaries not directly tied to a task board card, or if you need to inspect the status of your historical reviews:
+
+### Step-by-Step Instructions:
+
+1. Click **Submissions** 📤 in the left sidebar.
+2. Fill out the submission form:
+   - **Submission Title**: Give a short title (e.g., "Outreach Leads Contact Spreadsheet").
+   - **Associated Task**: Select the relevant task from the drop-down selector of your active tasks.
+   - **Summary / Description**: Outline what deliverables you are submitting.
+   - **File URL / Submission Link**: Paste the link to the deliverable file (Google Drive, GitHub pull request, shared doc, etc.).
+   - **Notes**: Any supplementary details for the reviewer.
+3. Click the blue **Submit Deliverable** button.
+4. Navigate to the **My Submissions** tab to track manager approvals (`Pending`, `Approved`, or `Revision Requested`) and read feedback commentary logs.
+
+---
+
+## 📝 5. How to Submit Your Daily Logs (Every Night before 10:00 PM)
 
 > 📌 **Requirement:** You must fill out a log report every evening to document your day's progress. Daily logs should be filled by **10:00 PM** every evening.
 
@@ -117,12 +136,13 @@ You receive your tasks from managers on the Task Board.
 
 ---
 
-## 💬 5. How to Chat with Team Managers
+## 💬 6. How to Chat with Team Managers and Groups
 
-Standard contributors (employees/interns) cannot message each other to maintain focus, but you can message your leaders directly.
+Standard contributors (employees/interns) cannot message each other to maintain focus, but you can chat with leaders and join team channels.
 
 ### Step-by-Step Instructions:
 
+#### Direct Messaging:
 1. Click **Live Chat** 💬 in the left sidebar.
 2. In the left panel, you will see your available contacts:
    - **Sambit Pradhan** (CEO, Code-X-Novas)
@@ -132,6 +152,11 @@ Standard contributors (employees/interns) cannot message each other to maintain 
 4. The chat conversation feed will load in the center.
 5. Type your message in the text box at the bottom.
 6. Click the paper airplane button (or press **Enter**) to send.
+
+#### Channel & Group Chats:
+1. If CEO Sambit or HR Head Sahil adds you to a team channel, it will appear under the **Chat Groups** section of your Live Chat sidebar.
+2. Click the group name to read announcements or participate in team discussions.
+3. Pulse notifications and counts will display for any unread channel messages.
 
 ### Reading Messages:
 
@@ -144,7 +169,7 @@ Standard contributors (employees/interns) cannot message each other to maintain 
 
 ---
 
-## 🏖️ 6. How to Request Time-Off (Leaves)
+## 🏖️ 7. How to Request Time-Off (Leaves)
 
 > 📋 **Important:** If you need a holiday or medical leave, you must submit a request **24 hours in advance**.
 
