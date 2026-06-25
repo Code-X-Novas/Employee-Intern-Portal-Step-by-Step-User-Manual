@@ -32,7 +32,7 @@ When you log in, you will see a navigation sidebar on the left side of your scre
 | :--- | :---: | :--- |
 | **Dashboard** | 🏠 | Your home screen showing summary stats (assigned tasks, attendance rate) and recent tasks. |
 | **My Tasks** | ✔️ | The board where you manage your active projects, start tasks, and submit your work deliverables. |
-| **Attendance** | 🕒 | The page where you check in every day (before 5:30 PM), view your attendance calendar, and apply for leaves. |
+| **Attendance** | 🕒 | The page where you mark attendance every day (before 5:30 PM), view your attendance calendar, and apply for leaves. |
 | **Submissions** | 📤 | The portal where you upload custom deliverables and files for manager review. |
 | **Updates** | ✏️ | The page where you submit your daily logs (by 10:00 PM) and weekly progress archives. |
 | **Resources** | 📖 | The central library containing official notice documents, guidelines, templates, and corporate plans. |
@@ -43,7 +43,7 @@ When you log in, you will see a navigation sidebar on the left side of your scre
 
 ## 📅 2. How to Mark Your Daily Attendance (Every Day before 5:30 PM)
 
-> ⏰ **Important:** You must check in every working day. If you check in **after 5:30 PM**, you are automatically marked **Late**.
+> ⏰ **Important:** You must check in every working day. If you mark attendance **after 5:30 PM**, you are automatically marked **Late**.
 
 ### Step-by-Step Instructions:
 
